@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "NakzcOCIK5fArfVqXkJDPXbMgteYnIX0c7Qn2Oj3EBlUqxHHq9w8m1CCmfyaaJ2niVnUa26mVsweyrDCSHD8yQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\albin\\source\\repos\\Security_issue\\GoodSolution\\GoodSolution.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\albin\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.1\\microsoft.aspnetcore.http.features.5.0.1.nupkg.sha512",
+    "C:\\Users\\albin\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\albin\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

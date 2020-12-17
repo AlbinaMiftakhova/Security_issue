@@ -1,0 +1,8 @@
+C:\Users\albin\source\repos\Security_issue\BadSolution\bin\Debug\netcoreapp3.1\BadSolution.exe
+C:\Users\albin\source\repos\Security_issue\BadSolution\obj\Debug\netcoreapp3.1\BadSolution.csprojAssemblyReference.cache
+C:\Users\albin\source\repos\Security_issue\BadSolution\obj\Debug\netcoreapp3.1\BadSolution.AssemblyInfoInputs.cache
+C:\Users\albin\source\repos\Security_issue\BadSolution\obj\Debug\netcoreapp3.1\BadSolution.AssemblyInfo.cs
+C:\Users\albin\source\repos\Security_issue\BadSolution\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\albin\source\repos\Security_issue\BadSolution\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\albin\source\repos\Security_issue\BadSolution\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\albin\source\repos\Security_issue\BadSolution\obj\Debug\netcoreapp3.1\BadSolution.csproj.CopyComplete

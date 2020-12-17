@@ -1,0 +1,4 @@
+C:\Users\albin\source\repos\Security_issue\GoodSolution\bin\Debug\netcoreapp3.1\GoodSolution.exe
+C:\Users\albin\source\repos\Security_issue\GoodSolution\obj\Debug\netcoreapp3.1\GoodSolution.csprojAssemblyReference.cache
+C:\Users\albin\source\repos\Security_issue\GoodSolution\obj\Debug\netcoreapp3.1\GoodSolution.AssemblyInfoInputs.cache
+C:\Users\albin\source\repos\Security_issue\GoodSolution\obj\Debug\netcoreapp3.1\GoodSolution.AssemblyInfo.cs
